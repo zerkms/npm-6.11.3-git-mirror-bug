@@ -1,0 +1,5 @@
+{
+    "devDependencies": {
+        "qs": "git+ssh://git@github.com/ljharb/qs"
+    }
+}
